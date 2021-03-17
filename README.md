@@ -1,2 +1,2 @@
-# face-detect
-face detector in python with OpenCV2
+# Face Detection & Images Finder
+Face detector and images finder in python with OpenCV2
